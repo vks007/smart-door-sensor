@@ -1,2 +1,0 @@
-{"mqtt_server":"192.XXX.XX.XXX","mqtt_user":"your_mqtt_user","mqtt_pswd":"your_mqtt_pswd","mqtt_client_name":"main_door","mqtt_topic":"home/main_door","ip_address":"192.XXX.XX.XX"
-}
