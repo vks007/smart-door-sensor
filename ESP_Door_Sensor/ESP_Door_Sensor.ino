@@ -29,7 +29,7 @@
 #include "secrets.h" //From /libraries/MyFiles/secrets.h
 
 //#define TESTING_MODE //used to prevent using Rx & Tx as input pins , rather use them as normal serial pins for debugging , comment this out during normal operation
-//#define DEBUG //BEAWARE that this statement should be before #include <DebugMacros.h> else the macros wont work as they are based on this #define
+//#define DEBUG //BEAWARE that this statement should be before #include "DebugUtils.h" else the macros wont work as they are based on this #define
 #include "Debugutils.h" //This file is located in the Sketches\libraries\DebugUtils folder
 
 //Types of messages decoded via the signal pins
